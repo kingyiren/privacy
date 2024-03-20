@@ -2,16 +2,15 @@ Overview
 We strongly support your right to privacy when using our apps. Our privacy policy is simple: your data is none of our business. We make money by selling software, not by mining your personal information.
 
 No Ads, No Investors, No Conflicts of Interest
-JimIM is ad-free, and it will always stay that way. The team is fully funded by its app sales and by corporate customers’ subscriptions. Thanks to the solid business model, JimTeam is not dependent on any investors. We are only committed to our users. 
+All our products are ad-free, and it will always stay that way. The team is fully funded by its app sales and by corporate customers’ subscriptions. Thanks to the solid business model, JimTeam is not dependent on any investors. We are only committed to our users. 
 
 INFO
-All our Apps does not share any information with third parties and us(YiRen Studio).
-Usage of the android.permission.INTERNET permission is specifically to your own privte servers into JimIM products.
-All other permissions are specifically used for the functionality of the app.
+All our Apps does not share any personal information with third parties and us(JimTeam).
+By default, our products use no permissions as much as possible. If some permissions are used, it only means that they are necessary for the current function.
 Even if you want，you can turn off the app's Internet permissions, then all the features will still work fine.
-Unless you want to use the Internet, then you need to have your own server and enough bandwidth, and deploy our free software on server.
+Unless the product function requires the use of the Internet, in addition to paying to subscribe to our server resources, you can also use your own server and deploy our free software on the server. In this case, in addition to the cost of purchasing the software, the service fee is free .
 
-Developer by YiRen Studio
+Developer by JimTeam
 CEO&CTO jim.jin
-email:kingyiren@hotmail.com
+bug report:kingyiren@hotmail.com
 mobile:+86-18805818998
